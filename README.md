@@ -48,3 +48,10 @@ npm run dev
 ▼初期設定画面
 
 ![](demo.png)
+
+# 開発環境
+
+* Nuxtjs 4.0.0
+* Vuetify 2.6.2
+* Axios
+* TypeScript 4.5.4
